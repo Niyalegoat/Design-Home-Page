@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    margin: 0px;
+}
+
+p{
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+img{
+    width: 320px;
+    height: 190px;
+    margin-right: 20px;
+    border: 3px solid pink;
+    border-radius: 15px;
+    padding: 4px;
+    box-shadow: 0 0 10px white;
+}
+.header {
+    background-color: grey;
+    padding: 10px;
+    color: pink;
+}
+.team{
+    background-color: grey;
+    padding: 10px;
+    color: pink;
+}
+.clients {
+    background-color: grey;
+    padding: 10px;
+    color: pink;
+}
+.development{
+    background-color: grey;
+    padding: 10px;
+    color: pink;
+}
+.footer{
+    background-color: grey;
+    padding: 10px;
+    color: pink;
+}
+.software{
+    color: pink;
+}
+.solutions{
+    color: pink;
+}
